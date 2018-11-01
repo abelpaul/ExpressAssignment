@@ -1,0 +1,25 @@
+{
+  "name": "expressassignment",
+  "version": "1.0.0",
+  "description": "assignment done in coordination with Colt Steele's Web Developer Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelpaul/ExpressAssignment.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "abel paul george",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelpaul/ExpressAssignment/issues"
+  },
+  "homepage": "https://github.com/abelpaul/ExpressAssignment#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
